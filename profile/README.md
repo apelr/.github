@@ -12,10 +12,11 @@ Apelr builds educational content and tools for learners and educators in the MEN
 
 - **[Apelr](https://apelr.com/en)**: Lebanese official exam past papers, answer keys and organized study resources for Grade 9 and Grade 12 students.
 - **[Tools](https://tools.apelr.com)**: Free everyday tools for PDFs, images and text that run entirely in your browser.
+- **[Music](https://music.apelr.com/en)**: An Android app with a grand piano that plays Arabic maqamat with real quarter tones, plus a metronome and a chromatic tuner.
 - **[Blog](https://blog.apelr.com)**: Articles on learning, educating, and creating an environment for self and continuous improvement.
 - **[Docs](https://docs.apelr.com)**: Guides for the Apelr app, Tools and Music.
 - **[Extensions](https://extensions.apelr.com)**: Browser extensions by Apelr, with a page and a privacy policy for each one, including [Teachable Toolkit](https://extensions.apelr.com/teachable-toolkit) for Teachable lecture pages.
 
 ## Contact
 
-[apelr.com](https://apelr.com/en) · [hi@apelr.com](mailto:hi@apelr.com)
+[apelr.com](https://apelr.com/en) · [abed@apelr.com](mailto:abed@apelr.com)
